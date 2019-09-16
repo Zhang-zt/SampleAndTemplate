@@ -1,0 +1,19 @@
+{
+  "properties": [
+    {
+      "name": "demo.operation.name",
+      "type": "java.lang.String",
+      "description": "行动名称."
+    },
+    {
+      "name": "demo.operation.id",
+      "type": "java.lang.String",
+      "description": "行动代号."
+    },
+    {
+      "name": "demo.operation.apCost",
+      "type": "java.lang.Integer",
+      "description": "花费行动值."
+    }
+  ]
+}
